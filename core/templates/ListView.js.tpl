@@ -34,7 +34,7 @@ export class ListView extends Component {
         <article className="fd-page">
           <header className="fd-page__header fd-has-background-color-background-2">
             <ActionBar>
-              <ActionBar.Header description="" title="${_.kebabCase(name)}" />
+              <ActionBar.Header description="" title="${name}" />
               <ActionBar.Actions>{}</ActionBar.Actions>
             </ActionBar>
             <div className="fd-container fd-container--fluid" style={{ marginBottom: '15px' }}>
