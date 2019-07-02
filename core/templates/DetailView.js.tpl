@@ -194,7 +194,7 @@ export class DetailView extends Component {
                                 <h3 className="fd-action-bar__title" style={{ margin: '20px 0' }}>
                                   Products
                                 </h3>
-                                <div class="fd-container">
+                                <div className="fd-container">
                                   <div className="fd-col--4">
                                     <FormSet>
                                       <FormItem>
@@ -225,7 +225,7 @@ export class DetailView extends Component {
                                 <h3 className="fd-action-bar__title" style={{ margin: '20px 0' }}>
                                   Dimensions
                                 </h3>
-                                <div class="fd-container" style={{ marginBottom: '20px' }}>
+                                <div className="fd-container" style={{ marginBottom: '20px' }}>
                                   <div className="fd-col--4">
                                     <FormSet>
                                       <FormItem>
@@ -308,7 +308,7 @@ export class DetailView extends Component {
                                 <h3 className="fd-action-bar__title" style={{ margin: '20px 0' }}>
                                   Products
                                 </h3>
-                                <div class="fd-container">
+                                <div className="fd-container">
                                   <div className="fd-col--4">
                                     <FormSet>
                                       <FormItem>
@@ -339,7 +339,7 @@ export class DetailView extends Component {
                                 <h3 className="fd-action-bar__title" style={{ margin: '20px 0' }}>
                                   Dimensions
                                 </h3>
-                                <div class="fd-container" style={{ marginBottom: '20px' }}>
+                                <div className="fd-container" style={{ marginBottom: '20px' }}>
                                   <div className="fd-col--4">
                                     <FormSet>
                                       <FormItem>
@@ -422,7 +422,7 @@ export class DetailView extends Component {
                                 <h3 className="fd-action-bar__title" style={{ margin: '20px 0' }}>
                                   Products
                                 </h3>
-                                <div class="fd-container">
+                                <div className="fd-container">
                                   <div className="fd-col--4">
                                     <FormSet>
                                       <FormItem>
@@ -453,7 +453,7 @@ export class DetailView extends Component {
                                 <h3 className="fd-action-bar__title" style={{ margin: '20px 0' }}>
                                   Dimensions
                                 </h3>
-                                <div class="fd-container" style={{ marginBottom: '20px' }}>
+                                <div className="fd-container" style={{ marginBottom: '20px' }}>
                                   <div className="fd-col--4">
                                     <FormSet>
                                       <FormItem>
@@ -536,7 +536,7 @@ export class DetailView extends Component {
                                 <h3 className="fd-action-bar__title" style={{ margin: '20px 0' }}>
                                   Products
                                 </h3>
-                                <div class="fd-container">
+                                <div className="fd-container">
                                   <div className="fd-col--4">
                                     <FormSet>
                                       <FormItem>
@@ -567,7 +567,7 @@ export class DetailView extends Component {
                                 <h3 className="fd-action-bar__title" style={{ margin: '20px 0' }}>
                                   Dimensions
                                 </h3>
-                                <div class="fd-container" style={{ marginBottom: '20px' }}>
+                                <div className="fd-container" style={{ marginBottom: '20px' }}>
                                   <div className="fd-col--4">
                                     <FormSet>
                                       <FormItem>
