@@ -55,7 +55,7 @@ export class DetailView extends Component {
                 <Button
                   option="emphasized"
                   onClick={() => {
-                    this.props.history.push('/ar-invoice/edit/ARI-20332');
+                    this.props.history.push('/${_.kebabCase(name)}/edit/ARI-20332');
                   }}
                 >
                   Edit
