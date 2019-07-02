@@ -1,10 +1,10 @@
 {
   "name": "rekit-plugin-list",
-  "version": "1.0.0",
-  "homepage": "https://github.com/rekit/boilerplate-rekit-plugin",
+  "version": "1.0.1",
+  "homepage": "https://github.com/ericwdq/rekit-plugin-list",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rekit/boilerplate-rekit-plugin"
+    "url": "git+https://github.com/ericwdq/rekit-plugin-list"
   },
   "files": [
     "build",
